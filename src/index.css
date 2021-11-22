@@ -1,13 +1,98 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; */
+  font-family: 'Montserrat', sans-serif;
+  max-width: 100vw;
+  overflow-x: hidden;
+  background: url(https://hdwallpapers.cat/wallpaper_mirror/purple_harmony_sky_mountains_sunset_nature_hd-wallpaper-1913939.jpg)
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+li Link{
+  color: #6b747b !important;
+}
+.navbar { 
+  position: sticky;
+  border-radius: 30px;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 98% !important;
+  margin: 0 auto !important;
+  height: 64px;
+  background: rgba(255,255,255,0.4) !important;
+  border-bottom: 1px solid rgba(225,225,225,0.5) !important;
+  z-index: 1000;
+}
+#navBlur {
+  background-color: red;
+  position: fixed;
+  height: 64px;
+  width: 100%;
+  padding-right: 16px;
+  margin-left: -8px;
+  margin-top: -8px;
+  transition: left 1.2s ease;
+  background: inherit;
+  /* filter */
+  
+  filter: blur(10px);
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(15px);
+  -o-filter: blur(15px);
+  -ms-filter: blur(15px);
+  z-index: 999;
+}
+.nav ul {
+  list-style: none;
+  text-align: center;
+  white-space: nowrap;
+  padding-right: 32px;
+}
+
+.nav ul li {
+  display: inline-block;
+  color: white;
+  padding: 0px 25px;
+  font-size: 20px;
+  text-shadow: 0 0 3px white;
+}
+.d-flex{
+  display: flex;
+}
+.jcen{
+  justify-content: center;
+}
+.acen{
+  align-items: center;
+}
+.fg1{
+  flex-grow: 1;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.myCard{
+  background: rgba(255,255,255,0.4) !important;
+  padding: 30px 30px;
+  border-radius: 40px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.clrwhite{
+  color: white;
+}
+.transBack{
+  background: rgba(255,255,255,0.4) !important;
+}
+.bell{
+  /* position: absolute; */
+  right: 0px;
+  transform: translate(50%, 0);
 }
