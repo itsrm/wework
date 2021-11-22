@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/wework/static/css/main.0e391a5e.chunk.css",
-    "main.js": "/wework/static/js/main.cc6ac545.chunk.js",
-    "main.js.map": "/wework/static/js/main.cc6ac545.chunk.js.map",
-    "runtime-main.js": "/wework/static/js/runtime-main.41f7c1aa.js",
-    "runtime-main.js.map": "/wework/static/js/runtime-main.41f7c1aa.js.map",
-    "static/css/2.a95be28f.chunk.css": "/wework/static/css/2.a95be28f.chunk.css",
-    "static/js/2.bb4861dc.chunk.js": "/wework/static/js/2.bb4861dc.chunk.js",
-    "static/js/2.bb4861dc.chunk.js.map": "/wework/static/js/2.bb4861dc.chunk.js.map",
-    "static/js/3.ff7a3569.chunk.js": "/wework/static/js/3.ff7a3569.chunk.js",
-    "static/js/3.ff7a3569.chunk.js.map": "/wework/static/js/3.ff7a3569.chunk.js.map",
+    "main.css": "/wework/static/css/main.5905a498.chunk.css",
+    "main.js": "/wework/static/js/main.3874e085.chunk.js",
+    "main.js.map": "/wework/static/js/main.3874e085.chunk.js.map",
+    "runtime-main.js": "/wework/static/js/runtime-main.ed592366.js",
+    "runtime-main.js.map": "/wework/static/js/runtime-main.ed592366.js.map",
+    "static/js/2.a1bd0a16.chunk.js": "/wework/static/js/2.a1bd0a16.chunk.js",
+    "static/js/2.a1bd0a16.chunk.js.map": "/wework/static/js/2.a1bd0a16.chunk.js.map",
+    "static/js/3.6ca2da9d.chunk.js": "/wework/static/js/3.6ca2da9d.chunk.js",
+    "static/js/3.6ca2da9d.chunk.js.map": "/wework/static/js/3.6ca2da9d.chunk.js.map",
     "index.html": "/wework/index.html",
-    "static/css/2.a95be28f.chunk.css.map": "/wework/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.0e391a5e.chunk.css.map": "/wework/static/css/main.0e391a5e.chunk.css.map",
-    "static/js/2.bb4861dc.chunk.js.LICENSE.txt": "/wework/static/js/2.bb4861dc.chunk.js.LICENSE.txt",
-    "static/media/img.3e92671a.jpg": "/wework/static/media/img.3e92671a.jpg",
+    "static/css/main.5905a498.chunk.css.map": "/wework/static/css/main.5905a498.chunk.css.map",
+    "static/js/2.a1bd0a16.chunk.js.LICENSE.txt": "/wework/static/js/2.a1bd0a16.chunk.js.LICENSE.txt",
+    "static/media/astronaut.0ee5b107.svg": "/wework/static/media/astronaut.0ee5b107.svg",
+    "static/media/index.css": "/wework/static/media/background.e40e4a5c.svg",
     "static/media/logo.e1122bc2.png": "/wework/static/media/logo.e1122bc2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.41f7c1aa.js",
-    "static/css/2.a95be28f.chunk.css",
-    "static/js/2.bb4861dc.chunk.js",
-    "static/css/main.0e391a5e.chunk.css",
-    "static/js/main.cc6ac545.chunk.js"
+    "static/js/runtime-main.ed592366.js",
+    "static/js/2.a1bd0a16.chunk.js",
+    "static/css/main.5905a498.chunk.css",
+    "static/js/main.3874e085.chunk.js"
   ]
 }
