@@ -8,7 +8,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   max-width: 100vw;
   overflow-x: hidden;
-  background: url(https://hdwallpapers.cat/wallpaper_mirror/purple_harmony_sky_mountains_sunset_nature_hd-wallpaper-1913939.jpg)
+  background: url("./Images/background.svg")
 }
 
 code {
@@ -95,4 +95,30 @@ li Link{
   /* position: absolute; */
   right: 0px;
   transform: translate(50%, 0);
+}
+.redNotif{
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 10px;
+  height: 10px;
+  background: red;
+  color: white;
+  border-radius: 50%;
+  padding: 5px;
+  z-index: 1000;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px !important;
+} 
+
+::-webkit-scrollbar-thumb {
+  background: rgba(90, 90, 90);
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
 }

@@ -1,7 +1,7 @@
 
 import Box from '@mui/material/Box';
-import Carousels from './Carousel';
 import Bell from './landingPage/Bell'
+import astronaut from "../Images/astronaut.svg"
 const Home = () => {
     return ( 
         <>
@@ -32,13 +32,14 @@ const Home = () => {
                     </div>
                     <div className="astronautPnotif d-flex" style={{ flexBasis: '50%', justifyContent: 'flex-end'}}>
                         <div className="astronaur">
-                            Astronaut
+                            <img src={astronaut} style={{width: '100%'}} alt="" />
                         </div>
                         <Bell />
                     </div>
                 </div>
                 {/* <Carousels /> */}
             </Box>
+
         </>
      );
 }
